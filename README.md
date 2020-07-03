@@ -1,2 +1,4 @@
 # Hello-world
-Hello World!
+Hello everyone!
+
+I'm Vinnie and I love java ;D
